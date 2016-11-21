@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'availability_password';
-$plugin->version = 2015111602;
-$plugin->release = '3.0 (Build: 2016012600)';
-$plugin->requires = 2015111600;
+$plugin->version = 2016112100;
+$plugin->release = '3.2 (Build: 2016112100)';
+$plugin->requires = 2016111800;
 $plugin->maturity = MATURITY_STABLE;
